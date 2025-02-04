@@ -1,10 +1,10 @@
 #include "ESP8266WiFi.h"
 #include "FirebaseArduino.h"
 
-#define FIREBASE_HOST        "golfcart-cdf3a-default-rtdb.firebaseio.com"
-//#define FIREBASE_HOST        "iotbuggy-default-rtdb.asia-southeast1.firebasedatabase.app"
-#define FIREBASE_AUTH        "Gl2sHNOsDiQr1hiPMgm11GeV7SjEdkWOKOiGcJFq"
-//#define FIREBASE_AUTH        "hLKCnIMXYEkI8OWi0XDcBAXE9jSLmkx1GriZSaOF"
+#define FIREBASE_HOST        "---------------------------------------"
+//#define FIREBASE_HOST        "--------------------------------------"
+#define FIREBASE_AUTH        "--------------------------------"
+//#define FIREBASE_AUTH        "-------------------------------"
 
 #define WIFI_SSID            "sh"  // Your WiFi SSID
 #define WIFI_PASSWORD        "srihari2324"  // Your WiFi Password
